@@ -1,8 +1,8 @@
-# Project 6 - *Name of App Here*
+# Project 6 - BeRealPt2
 
-Submitted by: **Your Name Here**
+Submitted by: **Safiya Menk**
 
-**Name of your app** is an app that introduces ... [TODO] 
+**Name of your app** is an app that introduces BeReal through allowing users to use their camera to upload phtoos
 
 Time spent: **2** hours spent in total
 
@@ -28,10 +28,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='codepath_u6_project.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
