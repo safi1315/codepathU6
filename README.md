@@ -4,7 +4,7 @@ Submitted by: **Safiya Menk**
 
 **Name of your app** is an app that introduces BeReal through allowing users to use their camera to upload phtoos
 
-Time spent: **2** hours spent in total
+Time spent: 1.5 hours spent in total
 
 ## Required Features
 
